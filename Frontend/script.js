@@ -3,7 +3,7 @@
 // Locally:  "http://127.0.0.1:8000"
 // Deployed: "https://your-backend-project.vercel.app"  (no trailing slash)
 // ---------------------------------------------------------------------------
-const API_BASE_URL = "http://127.0.0.1:8000";
+const API_BASE_URL = " https://ai-portfolio-project-3ujw.onrender.com";
 
 const transcript = document.getElementById("transcript");
 const composer = document.getElementById("composer");

@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Raunak Jha — Ask the Candidate</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <div class="folder">
+
+    <header class="tab">
+      <div class="tab-left">
+        <span class="tab-index">FILE NO. 001</span>
+        <h1>Raunak Jha</h1>
+        <p class="tab-role">Candidate Record — Interview Transcript</p>
+      </div>
+      <div class="tab-right">
+        <span class="status"><span class="dot"></span>Live — answers sourced from résumé</span>
+      </div>
+    </header>
+
+    <main class="transcript" id="transcript" aria-live="polite">
+      <div class="entry system">
+        <div class="entry-meta"><span class="q-index">START</span><span class="timestamp" id="startTime"></span></div>
+        <p class="entry-text">
+          This transcript is generated live. Ask anything about my experience, skills, or
+          background — every answer is pulled directly from my résumé. If it isn't in there,
+          I'll say so rather than guess.
+        </p>
+      </div>
+    </main>
+
+    <form class="composer" id="composer">
+      <span class="prompt-glyph">Q&gt;</span>
+      <input
+        type="text"
+        id="question"
+        name="question"
+        placeholder="Ask about my experience, projects, or skills…"
+        autocomplete="off"
+        maxlength="400"
+        required
+      />
+      <button type="submit" id="sendBtn">
+        <span class="btn-label">Ask</span>
+      </button>
+    </form>
+
+    <footer class="hint">
+      <span>Try: "What's your most recent role?" · "What are your core skills?" · "Have you shipped anything with LLMs?"</span>
+    </footer>
+
+  </div>
+
+<script src="script.js"></script>
+</body>
+</html>

@@ -8,6 +8,7 @@ from pypdf import PdfReader
 from groq import Groq
 from dotenv import load_dotenv
 from pydantic import BaseModel
+from fastapi.responses import StreamingResponse
 
 load_dotenv()
 client = Groq(api_key=os.getenv("GROQ_API_KEY"))
@@ -117,16 +118,6 @@ def ask_candidate(question: str, resume: Resume):
         if content:
             yield content
 
-    response = client.chat.completions.create(
-        model=model,
-        messages=[
-            {"role": "system", "content": system_prompt},
-            {"role": "user", "content": question},
-        ],
-    )
-
-    return response.choices[0].message.content
-
 
 def parse_resume(resume_text):
     system_prompt = f"""
@@ -194,9 +185,10 @@ def read_pdf(file_path):
 def home():
     return {"message": "Resume bot is running"}
 
-
 @app.post("/chat")
 def chat(request: ChatRequest):
     resume = get_resume()
-    answer = ask_candidate(request.question, resume)
-    return {"answer": answer}
+    return StreamingResponse(
+        ask_candidate(request.question, resume),
+        media_type="text/plain",
+    )

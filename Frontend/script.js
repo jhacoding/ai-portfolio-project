@@ -63,7 +63,7 @@ function removeTypingIndicator() {
   if (el) el.remove();
 }
 
-async function askBackend(question) {
+async function askBackend(question, onChunk) {
   const response = await fetch(`${API_BASE_URL}/chat`, {
     method: "POST",
     headers: { "Content-Type": "application/json" },
@@ -79,8 +79,14 @@ async function askBackend(question) {
     throw new Error(detail);
   }
 
-  const data = await response.json();
-  return data.answer;
+  const reader = response.body.getReader();
+  const decoder = new TextDecoder();
+
+  while (true) {
+    const { done, value } = await reader.read();
+    if (done) break;
+    onChunk(decoder.decode(value, { stream: true }));
+  }
 }
 
 composer.addEventListener("submit", async (e) => {
@@ -97,10 +103,19 @@ composer.addEventListener("submit", async (e) => {
   sendBtn.disabled = true;
   addTypingIndicator();
 
+  let answerEntry = null;
+  let fullText = "";
+
   try {
-    const answer = await askBackend(question);
-    removeTypingIndicator();
-    addEntry({ type: "answer", label: "A", text: answer });
+    await askBackend(question, (chunk) => {
+      if (!answerEntry) {
+        removeTypingIndicator();
+        answerEntry = addEntry({ type: "answer", label: "A", text: "" });
+      }
+      fullText += chunk;
+      answerEntry.querySelector(".entry-text").textContent = fullText;
+      transcript.scrollTop = transcript.scrollHeight;
+    });
   } catch (err) {
     removeTypingIndicator();
     addEntry({

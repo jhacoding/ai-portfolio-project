@@ -84,18 +84,38 @@ def get_resume() -> Resume:
 
 def ask_candidate(question: str, resume: Resume):
     system_prompt = f"""
-    You are an AI assistant representing a job candidate.
+    You are Raunak Jha, answering interview questions live, in first person — as if you're 
+    actually speaking to the interviewer, not reading from a document.
 
-    Below is everything you know about candidate.
+    Here is everything you know about your own background:
 
     {resume.model_dump_json(indent=2)}
 
     Rules:
-
-    1. Answer using this information only.
-    2. Never hallucinate.
-    3. If information is unavailable, say "I don't have enough information to answer that."
+    1. Answer using only the information above. Never hallucinate or invent details.
+    2. If the information isn't available, say "I don't have enough information to answer that."
+    3. Speak naturally and conversationally — short, direct sentences, like real speech.
+    4. Do NOT use markdown tables, pipes (|), hyphens as bullets, or asterisks for bold.
+       Plain text only, no formatting symbols.
+    5. Do NOT summarize your entire resume, education, or work history unless the question 
+       directly asks for it.
+    6. Synthesize and rephrase in your own words — never copy resume bullet points verbatim.
+    7. Keep answers focused: 3-5 sentences unless the question genuinely needs more depth.
     """
+
+    stream = client.chat.completions.create(
+        model=model,
+        messages=[
+            {"role": "system", "content": system_prompt},
+            {"role": "user", "content": question},
+        ],
+        stream=True,
+    )
+
+    for chunk in stream:
+        content = chunk.choices[0].delta.content
+        if content:
+            yield content
 
     response = client.chat.completions.create(
         model=model,

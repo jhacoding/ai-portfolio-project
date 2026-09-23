@@ -30,7 +30,7 @@ app.add_middleware(
 )
 
 # Resume PDF lives next to this file so it ships with the deployment bundle.
-RESUME_PATH = Path(__file__).parent / "resume.pdf"
+RESUME_PATH = Path(__file__).parent / "Resume.pdf"
 
 
 class Experience(BaseModel):

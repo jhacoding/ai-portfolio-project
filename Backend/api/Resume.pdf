@@ -1,666 +1,114 @@
-%PDF-1.3
-%âãÏÓ
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/Producer (pypdf)
-/Title (Raunak Jha \055 Resume)
-/Author (Raunak Jha)
+/F1 2 0 R /F2 3 0 R
 >>
 endobj
 2 0 obj
 <<
-/Type /Pages
-/Count 1
-/Kids [ 4 0 R ]
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
 >>
 endobj
 3 0 obj
 <<
-/Type /Catalog
-/Pages 2 0 R
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
 >>
 endobj
 4 0 obj
 <<
-/Annots [ 5 0 R 6 0 R 7 0 R 8 0 R ]
-/Contents 9 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Resources <<
-/Font <<
-/F1 10 0 R
-/F1-0 11 0 R
-/F2 12 0 R
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
-/Parent 2 0 R
+/A <<
+/S /URI /Type /Action /URI (https://linkedin.com/in/raunakjha-3026a121a)
+>> /Border [ 0 0 0 ] /Rect [ 145.875 761.7498 328.1835 772.1898 ] /Subtype /Link /Type /Annot
 >>
 endobj
 5 0 obj
 <<
 /A <<
-/S /URI
-/Type /Action
-/URI (https\072\057\057linkedin\056com\057in\057raunakjha\0553026a121a)
->>
-/Border [ 0 0 0 ]
-/Rect [ 144.1306 758.6487 328.5346 769.2087 ]
-/Subtype /Link
-/Type /Annot
+/S /URI /Type /Action /URI (https://github.com/jhacoding)
+>> /Border [ 0 0 0 ] /Rect [ 335.2827 761.7498 449.4006 772.1898 ] /Subtype /Link /Type /Annot
 >>
 endobj
 6 0 obj
 <<
 /A <<
-/S /URI
-/Type /Action
-/URI (https\072\057\057github\056com\057jhacoding)
->>
-/Border [ 0 0 0 ]
-/Rect [ 335.7154 758.6487 451.145 769.2087 ]
-/Subtype /Link
-/Type /Annot
+/S /URI /Type /Action /URI (https://raunak-ai-portfolio.vercel.app)
+>> /Border [ 0 0 0 ] /Rect [ 507.836 454.7798 550.2756 465.8198 ] /Subtype /Link /Type /Annot
 >>
 endobj
 7 0 obj
 <<
 /A <<
-/S /URI
-/Type /Action
-/URI (https\072\057\057raunak\055ai\055portfolio\056vercel\056app)
->>
-/Border [ 0 0 0 ]
-/Rect [ 508.0736 430.6837 549.5906 442.1837 ]
-/Subtype /Link
-/Type /Annot
+/S /URI /Type /Action /URI (https://github.com/jhacoding/coding-agent)
+>> /Border [ 0 0 0 ] /Rect [ 521.6452 364.4598 550.2756 375.4998 ] /Subtype /Link /Type /Annot
 >>
 endobj
 8 0 obj
 <<
 /A <<
-/S /URI
-/Type /Action
-/URI (https\072\057\057mental\055health\055predictor\0551\055c3kk\056onrender\056com)
->>
-/Border [ 0 0 0 ]
-/Rect [ 508.0736 331.5837 549.5906 343.0837 ]
-/Subtype /Link
-/Type /Annot
+/S /URI /Type /Action /URI (https://mental-health-predictor-1-c3kk.onrender.com)
+>> /Border [ 0 0 0 ] /Rect [ 507.836 263.0998 550.2756 274.1398 ] /Subtype /Link /Type /Annot
 >>
 endobj
 9 0 obj
 <<
-/Length 11732
+/Annots [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R ] /Contents 13 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 12 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
 >>
-stream
-q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 45.68504 782.7087 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F2 19 Tf 22 TL 198.6293 0 Td (Raunak Jha) Tj T* -198.6293 0 Td ET
-Q
-Q
-q
-1 0 0 1 45.68504 780.7087 cm
-Q
-q
-1 0 0 1 45.68504 769.2087 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2.7 Tm /F1 8.8 Tf 11.5 TL 108.3632 0 Td (Gurugram, Haryana, India | +91 98703 48012 | jharaunak564@gmail.com) Tj T* -108.3632 0 Td ET
-Q
-Q
-q
-1 0 0 1 45.68504 757.7087 cm
-q
-.101961 .309804 .627451 RG
-n 98.44556 1.6 m 282.8496 1.6 l S
-n 290.0304 1.6 m 405.46 1.6 l S
-BT 1 0 0 1 0 2.7 Tm 98.44556 0 Td 11.5 TL /F1 8.8 Tf .101961 .309804 .627451 rg (LinkedIn: linkedin.com/in/raunakjha-3026a121a) Tj 0 0 0 rg ( | ) Tj .101961 .309804 .627451 rg (GitHub: github.com/jhacoding) Tj T* -98.44556 0 Td ET
-Q
-Q
-q
-1 0 0 1 45.68504 740.7087 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (SUMMARY) Tj T* ET
-Q
-Q
-q
-1 0 0 1 45.68504 739.1087 cm
-q
-.6 w
-1 J
-0 0 0 RG
-n 0 0 m 503.9055 0 l S
-Q
-Q
-q
-1 0 0 1 45.68504 678.6087 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 49 Tm /F1 9 Tf 11.6 TL 1.011900 Tw (B.Tech Computer Science student \(graduating 2028\) seeking a software engineering role. Built and deployed two full-stack) Tj T* 0 Tw 3.699409 Tw (Python applications end-to-end \(FastAPI REST backends, JavaScript frontend, CI-based auto-deploys\), including an) Tj T* 0 Tw 0.098206 Tw (LLM-powered app with a caching layer to cut redundant calls and latency. Experience writing readable, maintainable code and) Tj T* 0 Tw 1.620964 Tw (debugging production issues, plus internships in web development and data analysis with cross-functional remote teams.) Tj T* 0 Tw (Comfortable integrating LLMs into real product flows.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 45.68504 661.6087 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (EDUCATION) Tj T* ET
-Q
-Q
-q
-1 0 0 1 45.68504 660.0087 cm
-q
-.6 w
-1 J
-0 0 0 RG
-n 0 0 m 503.9055 0 l S
-Q
-Q
-q
-1 0 0 1 45.68504 632.5087 cm
-q
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 0 .5 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 13.8 Tm /F2 9.2 Tf 11.5 TL (B.Tech, Computer Science | Dr. A.P.J. Abdul Kalam Technical University, Greater) Tj T* (Noida, UP) Tj T* ET
-Q
-Q
-q
-1 0 0 1 367.8425 .5 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2.5 Tm /F1 9 Tf 11.5 TL 88.02999 0 Td (2024 - 2028) Tj T* -88.02999 0 Td ET
-Q
-Q
-q
-Q
-Q
-Q
-q
-1 0 0 1 45.68504 619.0087 cm
-q
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 0 .5 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2.3 Tm /F2 9.2 Tf 11.5 TL (Class XII \(CBSE\) | MM Public School | 89%) Tj T* ET
-Q
-Q
-q
-1 0 0 1 367.8425 .5 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2.5 Tm /F1 9 Tf 11.5 TL 116.047 0 Td (2024) Tj T* -116.047 0 Td ET
-Q
-Q
-q
-Q
-Q
-Q
-q
-1 0 0 1 45.68504 605.5087 cm
-q
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 0 .5 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2.3 Tm /F2 9.2 Tf 11.5 TL (Class X \(CBSE\) | MM Public School | 94%) Tj T* ET
-Q
-Q
-q
-1 0 0 1 367.8425 .5 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2.5 Tm /F1 9 Tf 11.5 TL 116.047 0 Td (2022) Tj T* -116.047 0 Td ET
-Q
-Q
-q
-Q
-Q
-Q
-q
-1 0 0 1 45.68504 588.5087 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (TECHNICAL SKILLS) Tj T* ET
-Q
-Q
-q
-1 0 0 1 45.68504 586.9087 cm
-q
-.6 w
-1 J
-0 0 0 RG
-n 0 0 m 503.9055 0 l S
-Q
-Q
-q
-1 0 0 1 45.68504 572.8087 cm
-q
-BT 1 0 0 1 0 2.6 Tm 11.6 TL /F2 9 Tf 0 0 0 rg (Languages:) Tj /F1 9 Tf ( Python, Java, C, JavaScript, HTML, CSS) Tj T* ET
-Q
-Q
-q
-1 0 0 1 45.68504 548.6087 cm
-q
-BT 1 0 0 1 0 14.2 Tm 11.6 TL /F2 9 Tf 0 0 0 rg (CS Fundamentals:) Tj /F1 9 Tf ( Data Structures & Algorithms \(basics\), Object-Oriented Programming, Complexity Analysis, Problem) Tj T* (Solving) Tj T* ET
-Q
-Q
-q
-1 0 0 1 45.68504 524.4087 cm
-q
-BT 1 0 0 1 0 14.2 Tm 11.6 TL /F2 9 Tf 0 0 0 rg (Backend & Web:) Tj /F1 9 Tf ( FastAPI, REST APIs, Web Services, Pydantic Schema Validation, CORS, Caching, Responsive Web) Tj T* (Development, Debugging & Troubleshooting) Tj T* ET
-Q
-Q
-q
-1 0 0 1 45.68504 511.8087 cm
-q
-BT 1 0 0 1 0 2.6 Tm 11.6 TL /F2 9 Tf 0 0 0 rg (Deployment & Tools:) Tj /F1 9 Tf ( Git, CI-Based Auto-Deploy, Render, Vercel, Environment & Secrets Management, Agile) Tj T* ET
-Q
-Q
-q
-1 0 0 1 45.68504 487.6087 cm
-q
-BT 1 0 0 1 0 14.2 Tm 11.6 TL /F2 9 Tf 0 0 0 rg (AI / LLM:) Tj /F1 9 Tf ( Generative AI / LLMs, LLM API Integration \(Groq\), Schema-Constrained LLM Extraction, RAG, Prompt Engineering,) Tj T* (Agentic AI) Tj T* ET
-Q
-Q
-q
-1 0 0 1 45.68504 463.4087 cm
-q
-BT 1 0 0 1 0 14.2 Tm 11.6 TL /F2 9 Tf 0 0 0 rg (Data & ML:) Tj /F1 9 Tf ( Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Data Cleaning, EDA, Feature Engineering, Model Evaluation,) Tj T* (Data Leakage Prevention) Tj T* ET
-Q
-Q
-q
-1 0 0 1 45.68504 446.4087 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (PROJECTS) Tj T* ET
-Q
-Q
-q
-1 0 0 1 45.68504 444.8087 cm
-q
-.6 w
-1 J
-0 0 0 RG
-n 0 0 m 503.9055 0 l S
-Q
-Q
-q
-1 0 0 1 45.68504 428.8087 cm
-q
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 0 .5 cm
-q
-BT 1 0 0 1 0 2.3 Tm 11.5 TL /F2 9.2 Tf 0 0 0 rg (AI-Powered Portfolio Chatbot | ) Tj /F1 8.5 Tf (Python, FastAPI, Groq LLM API, JavaScript, pypdf) Tj T* ET
-Q
-Q
-q
-1 0 0 1 367.8425 .5 cm
-q
-.101961 .309804 .627451 rg
-.101961 .309804 .627451 RG
-n 94.54599 1.375 m 136.063 1.375 l S
-BT 1 0 0 1 0 2.5 Tm /F1 9 Tf 11.5 TL 94.54599 0 Td (Live demo) Tj T* -94.54599 0 Td ET
-Q
-Q
-q
-Q
-Q
-Q
-q
-1 0 0 1 45.68504 405.6087 cm
-q
-BT 1 0 0 1 1 14.2 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
-0 0 0 rg
-BT 1 0 0 1 10 14.2 Tm /F1 9 Tf 11.6 TL .5 0 Td (Built and deployed a multi-service full-stack app: FastAPI REST backend on Render and JavaScript frontend on Vercel,) Tj T* -0.5 0 Td (connected over a CORS-enabled API.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 45.68504 381.8087 cm
-q
-BT 1 0 0 1 1 14.2 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
-0 0 0 rg
-BT 1 0 0 1 10 14.2 Tm /F1 9 Tf 11.6 TL .5 0 Td (Designed a pipeline that turns unstructured resume PDFs \(pypdf\) into structured data using schema-constrained LLM) Tj T* -0.5 0 Td (extraction, with answers grounded only in that data to reduce hallucination.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 45.68504 358.0087 cm
-q
-BT 1 0 0 1 1 14.2 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
-0 0 0 rg
-BT 1 0 0 1 10 14.2 Tm /F1 9 Tf 11.6 TL .5 0 Td (Optimized performance with a caching layer that processes data once per server instance, eliminating redundant LLM calls) Tj T* -0.5 0 Td (and reducing latency.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 45.68504 345.8087 cm
-q
-BT 1 0 0 1 1 2.6 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
-0 0 0 rg
-BT 1 0 0 1 10 2.6 Tm /F1 9 Tf 11.6 TL .5 0 Td (Managed API secrets with environment variables and set up CI-based auto-deploys through Git.) Tj T* -0.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 45.68504 343.2087 cm
-Q
-q
-1 0 0 1 45.68504 329.7087 cm
-q
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 0 .5 cm
-q
-BT 1 0 0 1 0 2.3 Tm 11.5 TL /F2 9.2 Tf 0 0 0 rg (Mental Health Score Predictor | ) Tj /F1 8.5 Tf (Python, FastAPI, Pydantic, Scikit-learn, Pandas, NumPy) Tj T* ET
-Q
-Q
-q
-1 0 0 1 367.8425 .5 cm
-q
-.101961 .309804 .627451 rg
-.101961 .309804 .627451 RG
-n 94.54599 1.375 m 136.063 1.375 l S
-BT 1 0 0 1 0 2.5 Tm /F1 9 Tf 11.5 TL 94.54599 0 Td (Live demo) Tj T* -94.54599 0 Td ET
-Q
-Q
-q
-Q
-Q
-Q
-q
-1 0 0 1 45.68504 306.5087 cm
-q
-BT 1 0 0 1 1 14.2 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
-0 0 0 rg
-BT 1 0 0 1 10 14.2 Tm /F1 9 Tf 11.6 TL .5 0 Td (Built and deployed a full-stack application on Render with a FastAPI backend that validates all incoming requests with) Tj T* -0.5 0 Td (Pydantic schemas.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 45.68504 294.3087 cm
-q
-BT 1 0 0 1 1 2.6 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
-0 0 0 rg
-BT 1 0 0 1 10 2.6 Tm /F1 9 Tf 11.6 TL .5 0 Td (Designed preprocessing and training pipelines that prevent data leakage, giving reliable performance on unseen data.) Tj T* -0.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 45.68504 282.1087 cm
-q
-BT 1 0 0 1 1 2.6 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
-0 0 0 rg
-BT 1 0 0 1 10 2.6 Tm /F1 9 Tf 11.6 TL .5 0 Td (Handled data cleaning, EDA, and feature engineering; built, evaluated, and tuned models to predict mental health scores.) Tj T* -0.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 45.68504 265.1087 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (EXPERIENCE) Tj T* ET
-Q
-Q
-q
-1 0 0 1 45.68504 263.5087 cm
-q
-.6 w
-1 J
-0 0 0 RG
-n 0 0 m 503.9055 0 l S
-Q
-Q
-q
-1 0 0 1 45.68504 247.5087 cm
-q
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 0 .5 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2.3 Tm /F2 9.2 Tf 11.5 TL (Web Developer Intern | 1Stop.ai \(Remote\)) Tj T* ET
-Q
-Q
-q
-1 0 0 1 367.8425 .5 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2.5 Tm /F1 9 Tf 11.5 TL 51.01299 0 Td (Sep 2025 - Nov 2025) Tj T* -51.01299 0 Td ET
-Q
-Q
-q
-Q
-Q
-Q
-q
-1 0 0 1 45.68504 235.9087 cm
-q
-BT 1 0 0 1 1 2.6 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
-0 0 0 rg
-BT 1 0 0 1 10 2.6 Tm /F1 9 Tf 11.6 TL .5 0 Td (Developed responsive, cross-device web applications using HTML, CSS, and JavaScript.) Tj T* -0.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 45.68504 212.1087 cm
-q
-BT 1 0 0 1 1 14.2 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
-0 0 0 rg
-BT 1 0 0 1 10 14.2 Tm /F1 9 Tf 11.6 TL .5 0 Td (Collaborated with designers and engineers in a remote agile team to ship UI/UX improvements that met accessibility) Tj T* -0.5 0 Td (standards.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 45.68504 199.9087 cm
-q
-BT 1 0 0 1 1 2.6 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
-0 0 0 rg
-BT 1 0 0 1 10 2.6 Tm /F1 9 Tf 11.6 TL .5 0 Td (Debugged and troubleshot code issues to maintain site functionality and reliability.) Tj T* -0.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 45.68504 197.3087 cm
-Q
-q
-1 0 0 1 45.68504 183.8087 cm
-q
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 0 .5 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2.3 Tm /F2 9.2 Tf 11.5 TL (Data Analyst Intern | Brainwork TechnoSolutions Pvt. Ltd.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 367.8425 .5 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2.5 Tm /F1 9 Tf 11.5 TL 47.51199 0 Td (June 2026 - July 2026) Tj T* -47.51199 0 Td ET
-Q
-Q
-q
-Q
-Q
-Q
-q
-1 0 0 1 45.68504 172.2087 cm
-q
-BT 1 0 0 1 1 2.6 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
-0 0 0 rg
-BT 1 0 0 1 10 2.6 Tm /F1 9 Tf 11.6 TL .5 0 Td (Performed exploratory data analysis and feature engineering to surface patterns and insights on data analysis projects.) Tj T* -0.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 45.68504 160.0087 cm
-q
-BT 1 0 0 1 1 2.6 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
-0 0 0 rg
-BT 1 0 0 1 10 2.6 Tm /F1 9 Tf 11.6 TL .5 0 Td (Built predictive models and delivered all assigned work on time in a fast-paced environment.) Tj T* -0.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 45.68504 157.4087 cm
-Q
-q
-1 0 0 1 45.68504 143.9087 cm
-q
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 0 .5 cm
-q
-BT 1 0 0 1 0 2.3 Tm 11.5 TL /F2 9.2 Tf 0 0 0 rg (AI & Public Speaking Intern | Teachwell Professional Studies Institute Pvt. Ltd.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 367.8425 .5 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2.5 Tm /F1 9 Tf 11.5 TL 24.02199 0 Td (Aug 2026 \(1-week program\)) Tj T* -24.02199 0 Td ET
-Q
-Q
-q
-Q
-Q
-Q
-q
-1 0 0 1 45.68504 132.3087 cm
-q
-BT 1 0 0 1 1 2.6 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
-0 0 0 rg
-BT 1 0 0 1 10 2.6 Tm /F1 9 Tf 11.6 TL .5 0 Td (Delivered a real-world AI project and presented technical problem-solving approaches clearly to non-technical audiences.) Tj T* -0.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 45.68504 115.3087 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (CERTIFICATIONS) Tj T* ET
-Q
-Q
-q
-1 0 0 1 45.68504 113.7087 cm
-q
-.6 w
-1 J
-0 0 0 RG
-n 0 0 m 503.9055 0 l S
-Q
-Q
-q
-1 0 0 1 45.68504 99.60866 cm
-q
-BT 1 0 0 1 1 2.6 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
-0 0 0 rg
-BT 1 0 0 1 10 2.6 Tm /F1 9 Tf 11.6 TL .5 0 Td (Oracle Certified Foundations Associate - Agentic AI, Oracle University, September 2026) Tj T* -0.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 45.68504 87.40866 cm
-q
-BT 1 0 0 1 1 2.6 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
-0 0 0 rg
-BT 1 0 0 1 10 2.6 Tm /F1 9 Tf 11.6 TL .5 0 Td (IBM SkillsBuild Data Analytics with AI Internship Program - IBM, AICTE & BharatCares, September 2026) Tj T* -0.5 0 Td ET
-Q
-Q
-
-Q
-
-q
-0.0 0.0 595.276 841.89 re
-W
-n
-1 0 0 1 0 0 cm
-BT
-/F1-0 12 Tf
-14.4 TL
-ET
-BT
-/F1-0 10 Tf
-12 TL
-ET
-BT
-1 0 0 1 46.7 77.813 Tm
-<7f> Tj
-T*
-ET
-BT
-/F1-0 9 Tf
-10.8 TL
-ET
-BT
-1 0 0 1 56.19 77.813 Tm
-(Introduction to MS Excel \055 Microsoft\054 October 2026) Tj
-T*
-ET
-Q
-
-
-endstream
 endobj
 10 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/PageMode /UseNone /Pages 12 0 R /Type /Catalog
 >>
 endobj
 11 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Author (Raunak Jha) /CreationDate (D:20261017050403+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261017050403+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (Raunak Jha - Resume) /Trapped /False
 >>
 endobj
 12 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Count 1 /Kids [ 9 0 R ] /Type /Pages
 >>
 endobj
+13 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 4567
+>>
+stream
+Gb!SogN)%<&q0LUoZOh1%1*+Z#SPgWV.eS[,M@rFB<tTe)$3/<d1B])Oj#D,r19J\D\<1%G#kVH]4-r5bY4YCSaMn*AE0kgrs`$tVc.p7`Z`C!l'ra>nn<>=UZm\$?9$K!?C-!:Nn*S'ICt+M[_@kU?Jo+%2]Q./@47IIRtl%W5Yg6A?+\_/rFnYIQ_I0l'tmt3+)(L4:&duUj!QPN0DKlVH-`mg#:Ao,aW9YN4Y;K-T:"N@/\`))ebj@/XB]:FeY773gPA8)BUhJqTWduti)%ehfcBY[2UM4k^Fr$QfA#u3IkFbG<`YTjp'X)'\p!&HD0`aI>IKSW4gI-F%p==lI/>*2a0r+!Y=jlj3,Y'`j8s.qhq;:41r3[>?s@O+mHpP;ChV##rPRgdK!HD'YAt#o!E(euaqf)>(+30=)CIb3dbj&;KmsgbY7)`XVqnU`?T>2uPdsd&SH(a"jdr1'`l5Q1p(K%;@Th"KYS\rc0umaambtHe_=]k)UY.-PX[tiZ`kGaX4JS+^Vt9MrjhJ:RePG+*h7`N.FG%3oX-p?WpreQ+G1Ub]>ou:5"*_cT+6,H^ep`6dToN]"#I6D(^k%VBDs693R`]S@_fW:=$^oBfN+EVob)8$<8O8tE@,"O-$31AcFSh\[TNoVir[B6kkJ`G%,fsR/-W4Q(3D5XEkd6:K5pD.6P&$>#A44C29(Pr[G$^!oC5\;#lYn"Bhs!4K9c':.R3j31CDDVl3DFNf&@IG'N=RT)NQ@$o`L&8JP:=a1(,"c%H7uG?,g>7j61ZX%$=%GqE87%A*4(P9n!g`GT7:NOS:mo$ZlI38=tJQN3^$7ljm;?H]hWKV`WN<oF9DDlgn>"?r2()G?rj';Q3H6815Q-!$\_KhQ<afu,2?9WqQ^;d)VUZ3enAYn6t3$(M\$,V!rqdDK$h`9of-!e@g>/LN<+-%/f$Rf3_Q5'A:uAVo25XC[467=#$iSO11'Qr\ree]F=gM(?EmE$+JKGB,1Is#F!FbRV0UphQ\cb\.'.BQ(<;=n.AU)-()tI[bmM-nSde_pK`YY.qNSrtgBH#1V)Ps8j;RN&bPu23)nl5-*)+Bp5;Z0p=i"J(I3)k%?+3e(ok^t?4#tVt7pJ$:a^NZM6$;Lb/7@SFqtOh%Zustt^XDGlU4IGq]uS/E.M_n5PZSM^T>5pjI7iL7RH8FnBl2fhGmj:Q)#a?MK[u=tBcMu\dA9VTpB'(5<@F8h2lI/im+iJ9q?Y2/i)dH'!QLnCN\e;GIItHq'u/7s`=8o/s6XQHB^tM]`LdR(aE.2p4@W-cSk_`\NaM&KS1_r%65OaN9N-X<rSVT)j7p],gr7XF"0:/_g]J)uEo,cg7eiLfeT%2`^'DF]]VbqZr>+m=a)Yq2HVF(#Ne[!dN/*$ARf#934.A&1Z#1+TT)8IPXP<1b:l&;bRNp7K8/A%(aS[F!g]M@gaCK7ROV+o0;_r+Xo_]+6-d?,s?oW?.nobTY!nr*)BBnWe%O^n'F#.GnU$>\VRa^5kaH3LG9]ku1#&98E;_M34lk:'W%Q/+u3;[!97Je;Wo)c#O,"n@&YE8ZUFB7r?+tX8(eCrn0O<muKBloN<lN;$.$N\=Xc[?(NNc09knq.LD)O^fFrZu27!*#JgAOmQM@HD`s-8N2n6Y7)M)^[M`1Z_6UY<jC>0NEY]+"o#:f?b_#+nIQn)q#4WE@gqO4V;DUlQ)798^f5EkK=i_?T\Hca$(URhdF+#2%S2I#SSH.eCat^$I'Yg21HT"Il-W!J4V#m(B#_h:oY:jP3WsLZPmd,_b:h+SV(9$Ulfc'Lm;e@amNC4!u;E"n+HTK)#Rc8YF(6u8L5%lA.?-'4pC'-?WK3[f8@b&;LSgC8H3(mkIZZc1ouqmYd&cQ&6^\A:fdY8%un<]=(lF0Eq$M[XEo-.$KQTA0,>B@WJtXHD?@lEUS<7R(YUd)_f"(Q"?bDm?deaQ?0hVS(-pqJ\[m<gcU@l"(Fl"BBIRP-QE^#O<Eunr'`:Ub2T1YE9/LrXB[IdG.g2#F=jKD$'ofAM.ZN?@ndHT&9St>;%AF(),iPX>EUe[.P4iDVcGencpS6]S0bA\\cgq*fI,f?4bHBt$ha3bRjlD&6qkC+H/l8Um;\c2e>`*!V(A.:&k''n,2TEisNU:1"qnpubNg&1CZ]=2Bj6.Q5PhIb0^"o2Rcfu^sUG*,WFPkYVmW<'08BuA]_f<uSpES124/-e<^PV,u*S7U_Js<nA_n$$<Q1EVmp%5naVTrKgVg0O!1<9-hk/H-tK:l5DMR]4HZus`6i;3C"WbWUd@\!hhHE<Pn!^BP9qI>j$dj+r7^r5Ip^TJ5Y>O"gE@Ol/oGu6t56![H:1,M:jgqYfF!D,#,(Pr?9*Npaj]qb_t6AT/D:*k[A_iH!@pNa;9P^<:_l&iE'n9815+$?Bh$t[`[4Z<Zl4AHa6BZbto@6,u3%fadf!GVW5YTD;K3uWEJH?@tWLe=UlM;2'bEM>g9,OV+O&'jaY\D*V,mhmq\\1Zc@r#^a(QJ"CF<^O9PC0OC`pGtr5aE"LaNBkW^j%X!Pa%$PkH%Zr!Ke&.<mP\po;g2X,\#V?KAiA,IC.,>if2He#0c'^J&/tg71%\)M).Y[j9;<gEf\!UQ@eN89?nMg:fC_j(J."/;/=H5q+Lnlor:V_,/\UW:6$u%c4"V992t7^8g/.OU%Aio"$19dV*AbD"]#BL'O)eHk/""-PNnh&`U"YLR)ZdRhG'(&>Z#rlZeQ*A[Qe6,pmsBh8NJ;(U14'i`ZqcaE<f!R0kM_TA@+?_+I$1;;-W&m\UtHKWn]_^%#A1.sMoW2jkOBA`66:3A8gqCb6mP6\B/2N.$5e5o&?)#6W]8W%TopMspnM7]g7PAKE6l,KAXoF-\9U,[4+=rrlYFnf/H!Z?mu0uW"s4b92\BSlQC5J2fklbl%?X"ggjkBJ[f3D8j7]4]_YsCu\Xjt=Ler-VUf(.KK$@qtrCk76kCm0iCd\%tmi*Bgl`dK](*U_F:3FNR;RfDAR@$'ML8?@RQU^W'TN>J`4eZj#Fr,&B_@E;2Esr$]cSo]sgICB23%@Y=crAOsC?K@M`cIB!q'IQ/(W\2G.hlSAnf025RE*C5L+LQFN0qh++bETrR)*QrU6&W#C-6ES2o_9G57\A^Td`mL90*<V0iTKaL,`hlR>Y0ucnpC1lWW/OOpZk;^Y^amrXR@*c-md?-V1R."D^KrO9Uc9GFfK^%b?D1s(gI+M"YGL,E2,_.gZb)=WZj#DC@(EL'lnJicc0$/jFZ@Z*f*"09YrnloI5pDVt$@^MpO@;&T%3G7!LSTL1,pKPVDPa.kVIKm[+`\F#jCDB0]S)ufl\8(Y'Xg(hrn,=0q$HN*m)j)MoFh1.[;&M%2%/L7e_Uh8c@VBsAq;^pR3:030srrM#Xf]fN(fX@bolD*K);UfFdk7aG<EUPBq2+!"r6HfWpjQE74mn$TWA%jNqF<A\j.`sTW>-s*h%5:D<o:s/-:nuO)89+Q&1E]HMEpnjq:BJTqb\HCZit`c419]D^#Nm?2!S.Fd6Zm#;J2/m@(*s'piYJ4_okP4\aR!'VdR9k#UX90E@e90)GpiR"Mp^X2oO0^oR_oF5X5eVX=4#o3W:,Q1p!P^83qB.;[0H_N*p]"&oTbq<Ofg8J,=>f&@h52]p`JobH6#E>.\9DNq-;\A;O]kGfD=ecZ5u-['NZ;SV#.Ih=TX3V<&]Q3Xe/X:THo]3'?>l)NfN`KhQY`DCu&j?2;5RhFe?3Lj205cX%)/(<Jn6i1jRLU+u5991MqoLqs2]jU,lA.MN'&I+/iUtkL2KaC&I8FDhR+$9<WJl;FSuu/?10BT#E032RhuWjq1bG*#KZuEM#$jRbb]8C_jYM^-^G4>D<J5[ca>\VA@t(h&],HI9"0`3GiFLRK`*^4+V>-EY!BKSg<ghm2`Mb>jULr.HaDXfZeu<FHWZPprC?r@F83ih(Rd^`utHDoptL/L\F>**.N?hUA(M<kjNkaGPGua1iero5,4ZS(cDC^P@$TAi0Gh7bMs7SpLIq(M.JR]gf*>"OZVIuClFai=;JIf4<=gCb!uLSn3-Z?%Et`e`/rf4<%rs.R"h<LMGK&5@tM.H]HVXT.Nr[AYG;J0F-,8P)V@H54k9i@pND/G\eT>^-o8s>;f2oibM<1D'YF2]lcp<E;M<44#n/GlFO%^'++p'tAJ?@ENK_#2M\72t&['gcDV+5YT"d@R1aj0[1I%Kkm2ILXf^/Ckae#B:O5=Pjd([]Rp(mF98H_,-diF<(9MIs'*hdU$D3cm,gbe8Qh-%b*3D@oIc1r5h'NkdF5s7oV1W;L89%'NKIn-a>:g#o"!4C"H7%H2!L,KQ4QdbJoYrRKk\=r>7XR:P/ml8*oo1nX..e.!q!'(L"<lFSH>'e)UF;;>*jEVZ`ghLRG*:[]>p!U[=<!*(OjD"lSI[G$<p[,&ts/SPjQh2DJ3-W9\q"1('=0YX`LXV(Q.37tZRnnZV'i6`\X,_r9"h`U,c/Ebt&9Q(p+%S+#)'>r+4908[pPYY@kE'M0j;a2'5,$Aj:b'P1*])VJkGW2]L.-EL3:u4FP5nSS~>endstream
+endobj
 xref
-0 13
+0 14
 0000000000 65535 f 
-0000000015 00000 n 
-0000000107 00000 n 
-0000000166 00000 n 
-0000000215 00000 n 
-0000000485 00000 n 
-0000000701 00000 n 
-0000000895 00000 n 
-0000001106 00000 n 
-0000001336 00000 n 
-0000013121 00000 n 
-0000013229 00000 n 
-0000013337 00000 n 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000515 00000 n 
+0000000695 00000 n 
+0000000884 00000 n 
+0000001077 00000 n 
+0000001279 00000 n 
+0000001526 00000 n 
+0000001596 00000 n 
+0000001880 00000 n 
+0000001940 00000 n 
 trailer
 <<
-/Size 13
-/Root 3 0 R
-/Info 1 0 R
+/ID 
+[<17f188d14eca0a739eff53710a5f4c3a><17f188d14eca0a739eff53710a5f4c3a>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 11 0 R
+/Root 10 0 R
+/Size 14
 >>
 startxref
-13450
+6599
 %%EOF
